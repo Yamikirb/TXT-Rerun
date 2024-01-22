@@ -1,2 +1,2 @@
 ### TXT-Rerun
-*this happens to be my first "albeit dumb" Game if you could call this that*
+*this happens to be my first Game that I made in python.*
